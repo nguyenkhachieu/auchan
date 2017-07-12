@@ -1,2 +1,0 @@
-# auchan
-# my-auchan
